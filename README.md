@@ -28,7 +28,7 @@ A bash script to capture different types of screenshots including region, delay 
 
 `git clone https://github.com/IamJony/screenshot-script.git`
 
-`cd screenshot/ && chmod +x install`
+`cd screenshot-script// && chmod +x install`
 
 `./install`
 
