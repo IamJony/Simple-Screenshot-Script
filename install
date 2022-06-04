@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# script created by Jonathan P. 
+# my github https://github.com/IamJony/
+
+
+sudo cp -rf scripts/screenshot /usr/local/bin/ ;
+sudo cp icons/screenshot.png /usr/share/icons/ ;
+sudo cp icons/error.svg /usr/share/icons/  
+
+
+echo -e "\e[5;33m SCRIPTS INSTALLATION SUCCESFUL \e[0m"

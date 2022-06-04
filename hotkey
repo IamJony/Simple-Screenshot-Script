@@ -1,0 +1,10 @@
+Example hotkey with sxhkd
+
+Print
+      screenshot --window
+
+shift + Print
+      screenshot --region
+
+ctrl + Print
+      screenshot --5s
