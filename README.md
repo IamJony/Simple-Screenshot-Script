@@ -1,7 +1,7 @@
 # screenshot-script
 A bash script to capture different types of screenshots including region, delay 5 seconds and windows
 
-![GitHub Logo](/example.png)
+![GitHub Logo](/example.gif)
 
 
 ## Dependency:
