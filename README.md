@@ -32,4 +32,4 @@ A bash script to capture different types of screenshots including region, delay 
 
 `./install`
 
-## Example:
+
