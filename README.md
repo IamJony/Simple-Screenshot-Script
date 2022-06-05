@@ -1,7 +1,7 @@
 # Simple Screenshot Script
 A bash script to capture different types of screenshots including region, delay 5 seconds and windows
 
-![GitHub Logo](https://github.com/IamJony/semi-nord-theme-bluefish/blob/main/example.gif)
+![GitHub Logo](https://raw.githubusercontent.com/IamJony/semi-nord-theme-bluefish/main/example.gif)
 
 
 ## Dependency:
