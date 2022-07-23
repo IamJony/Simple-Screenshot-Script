@@ -5,6 +5,7 @@
 
 
 sudo cp -rf scripts/screenshot /usr/local/bin/ ;
+sudo chmod +x /usr/local/bin/screenshot;
 sudo cp icons/screenshot.png /usr/share/icons/ ;
 sudo cp icons/error.svg /usr/share/icons/  
 
